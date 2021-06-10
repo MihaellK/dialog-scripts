@@ -1,1 +1,0 @@
-return global.dialog_messages[global.dialog_index, DIALOG.MESSAGE];
