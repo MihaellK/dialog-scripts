@@ -1,0 +1,1 @@
+Just delete the old codes and replace then all for the the Game Maker Studio 1 version with get_name feature
